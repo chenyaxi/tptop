@@ -1,4 +1,2 @@
-# tptop
-测试
-# 我要看看这个分类
-china
+# Tptop
+tptop.cn是针对thinkphp5.1框架开发的资源信息管理系统
